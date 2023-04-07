@@ -1,0 +1,15 @@
+D:\женек\IT\Example\Example001_Hello_worlf\bin\Debug\net6.0\Example001_Hello_worlf.exe
+D:\женек\IT\Example\Example001_Hello_worlf\bin\Debug\net6.0\Example001_Hello_worlf.deps.json
+D:\женек\IT\Example\Example001_Hello_worlf\bin\Debug\net6.0\Example001_Hello_worlf.runtimeconfig.json
+D:\женек\IT\Example\Example001_Hello_worlf\bin\Debug\net6.0\Example001_Hello_worlf.dll
+D:\женек\IT\Example\Example001_Hello_worlf\bin\Debug\net6.0\Example001_Hello_worlf.pdb
+D:\женек\IT\Example\Example001_Hello_worlf\obj\Debug\net6.0\Example001_Hello_worlf.csproj.AssemblyReference.cache
+D:\женек\IT\Example\Example001_Hello_worlf\obj\Debug\net6.0\Example001_Hello_worlf.GeneratedMSBuildEditorConfig.editorconfig
+D:\женек\IT\Example\Example001_Hello_worlf\obj\Debug\net6.0\Example001_Hello_worlf.AssemblyInfoInputs.cache
+D:\женек\IT\Example\Example001_Hello_worlf\obj\Debug\net6.0\Example001_Hello_worlf.AssemblyInfo.cs
+D:\женек\IT\Example\Example001_Hello_worlf\obj\Debug\net6.0\Example001_Hello_worlf.csproj.CoreCompileInputs.cache
+D:\женек\IT\Example\Example001_Hello_worlf\obj\Debug\net6.0\Example001_Hello_worlf.dll
+D:\женек\IT\Example\Example001_Hello_worlf\obj\Debug\net6.0\refint\Example001_Hello_worlf.dll
+D:\женек\IT\Example\Example001_Hello_worlf\obj\Debug\net6.0\Example001_Hello_worlf.pdb
+D:\женек\IT\Example\Example001_Hello_worlf\obj\Debug\net6.0\Example001_Hello_worlf.genruntimeconfig.cache
+D:\женек\IT\Example\Example001_Hello_worlf\obj\Debug\net6.0\ref\Example001_Hello_worlf.dll
